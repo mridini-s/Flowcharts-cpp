@@ -1,0 +1,6 @@
+Name,DocumentsVerified,Eligible,TestResult,SeatAllotted,AdmissionStatus,RollNumber
+Alice,Yes,Yes,Pass,Yes,Admitted,1000
+Bob,No,Yes,Pass,Yes,Rejected (Invalid Documents),NA
+Charlie,Yes,No,Pass,Yes,Rejected (Not Eligible),NA
+David,Yes,Yes,Fail,Yes,Rejected (Test Fail),NA
+Eva,Yes,Yes,Pass,No,Waitlisted (No Seats),NA
